@@ -56,6 +56,7 @@ Agent4IR Workshop: July 17, 2025
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Zhou Yu" affiliation="Columbia University" url="https://www.cs.columbia.edu/~zhouyu/" img="assets/img/ZhouYu.jpg" %}
+  {% include people_horizontal.html name="Michael Bendersky" affiliation="Databricks" url="https://bendersky.github.io/" img="assets/img/michael.jpg" %}
 </div>
 
 ## Organizers
