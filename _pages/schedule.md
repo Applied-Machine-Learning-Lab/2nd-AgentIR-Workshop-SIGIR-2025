@@ -17,8 +17,9 @@ TBA
 
 | **Star**{: .h5} | **End**{: .h5} | **Type**{: .h5} | **Event**{: .h5} |
 | :-----:   | :-----: |
-| 09:00 | 09:50 | Invited talk | **TBA** <br> Zhou Yu (Columbia University)|
-| 09:50 | 10:30 | Coffee break | |
+| 09:00 | 09:10 | Starting ||
+| 09:10 | 10:00 | Invited talk | **TBA** <br> Zhou Yu (Columbia University)|
+| 10:00 | 10:30 | Coffee break | |
 | 10:30 | 11:20 | Invited talk | **TBA** <br>  Michael Bendersky (Databricks) |
 | 11:20 | 12:10 | Invited talk | **TBA** <br>  Zhiwei Liu (Salesforce AI) |
 | 12:10 | 12:30 | Paper talk | SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to Question Answering|
