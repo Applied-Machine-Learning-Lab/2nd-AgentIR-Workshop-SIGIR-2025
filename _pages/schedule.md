@@ -19,7 +19,7 @@ Thursday, July 17, 2025
 
 | **Star**{: .h5} | **End**{: .h5} | **Type**{: .h5} | **Event**{: .h5} |
 | :-----:   | :-----: |
-| 14:30 | 15:15 | Invited talk | **TBA** <br> Zhou Yu (Columbia University)|
+| 14:30 | 15:15 | Invited talk | **Self-learning AI Agents** <br> Zhou Yu (Columbia University)|
 | 15:15 | 16:00 | Invited talk | **TBA** <br>  Michael Bendersky (Databricks) |
 | 16:00 | 16:30 | Coffee break | |
 | 16:30 | 17:15 | Invited talk | **The Second Half in AI Agents: Models and Beyond** <br>  Zhiwei Liu (Salesforce AI) |
