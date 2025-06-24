@@ -42,7 +42,7 @@ Submission deadline: April 23, 2025
 
 Acceptance notification: May 21, 2025
 
-Agent4IR Workshop: July 17, 2025
+Agent4IR Workshop: 14:30 - 18:00, July 17, 2025
 
 ## Attendance
 - When: July 17, 2025
