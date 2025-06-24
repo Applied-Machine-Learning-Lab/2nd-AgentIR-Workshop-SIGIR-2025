@@ -42,12 +42,12 @@ Submission deadline: April 23, 2025
 
 Acceptance notification: May 21, 2025
 
-Agent4IR Workshop: 14:30 - 18:00, July 17, 2025
+Agent4IR Workshop: July 17, 2025
 
 ## Attendance
-- When: July 17, 2025
+- When: 14:30 - 18:00, July 17, 2025 (Italy Time Zone)
 - Where: 
-  - In-person participation: The workshop will be an in-person event and to be held in (TBA), Padova, Italy.
+  - In-person participation: The workshop will be an in-person event and to be held in Padova, Italy.
   - Online participation: You can also join the workshop virtually at [Zoom]().
 
 ## Invited Speakers
