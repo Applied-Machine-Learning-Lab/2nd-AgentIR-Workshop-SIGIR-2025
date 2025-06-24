@@ -24,7 +24,7 @@ Thursday, July 17, 2025
 | 16:00 | 16:30 | Coffee break | |
 | 16:30 | 17:15 | Invited talk | **TBA** <br>  Zhiwei Liu (Salesforce AI) |
 | 17:15 | 17:45 | Paper talk | SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to Question Answering |
-| 17:45 | 18:00 | Poster Session | |
+| 17:45 | 18:00 | Ending & Poster Session | |
 {: .table}
 {: .table-striped}
 
