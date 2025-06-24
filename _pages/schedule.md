@@ -11,18 +11,20 @@ nav_order: 2
 
 (based on Italy time zone)
 
-TBA
+14:30 - 18:00
+
+Thursday, July 17, 2025
 
 <!-- The Second Workshop on Agent-based Information Retrieval (AgentIR) will take place in room Ohio (also online via [Zoom](https://hkust.zoom.us/j/95344753065?pwd=4Teu4Y3Ot9i8sWhuoaBK7sBXDhfRbe.1)) at Capital Hilton Hotel, in Washington D.C., US. on July 18th, 2024. -->
 
 | **Star**{: .h5} | **End**{: .h5} | **Type**{: .h5} | **Event**{: .h5} |
 | :-----:   | :-----: |
-| 09:00 | 09:10 | Starting ||
-| 09:10 | 10:00 | Invited talk | **TBA** <br> Zhou Yu (Columbia University)|
-| 10:00 | 10:30 | Coffee break | |
-| 10:30 | 11:20 | Invited talk | **TBA** <br>  Michael Bendersky (Databricks) |
-| 11:20 | 12:10 | Invited talk | **TBA** <br>  Zhiwei Liu (Salesforce AI) |
-| 12:10 | 12:30 | Paper talk | SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to Question Answering|
+| 14:30 | 15:15 | Invited talk | **TBA** <br> Zhou Yu (Columbia University)|
+| 15:15 | 16:00 | Invited talk | **TBA** <br>  Michael Bendersky (Databricks) |
+| 16:00 | 16:30 | Coffee break | |
+| 16:30 | 17:15 | Invited talk | **TBA** <br>  Zhiwei Liu (Salesforce AI) |
+| 17:15 | 17:45 | Paper talk | SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to Question Answering |
+| 17:45 | 18:00 | Poster Session | |
 {: .table}
 {: .table-striped}
 
