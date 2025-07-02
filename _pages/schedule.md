@@ -15,6 +15,8 @@ nav_order: 2
 
 Thursday, July 17, 2025
 
+Room Sala MANTEGNA Media 1, Padova Congress center, Padova, Italy
+
 <!-- The Second Workshop on Agent-based Information Retrieval (AgentIR) will take place in room Ohio (also online via [Zoom](https://hkust.zoom.us/j/95344753065?pwd=4Teu4Y3Ot9i8sWhuoaBK7sBXDhfRbe.1)) at Capital Hilton Hotel, in Washington D.C., US. on July 18th, 2024. -->
 
 | **Star**{: .h5} | **End**{: .h5} | **Type**{: .h5} | **Event**{: .h5} |
