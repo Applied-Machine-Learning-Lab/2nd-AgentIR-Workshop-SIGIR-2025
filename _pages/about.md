@@ -45,10 +45,10 @@ Acceptance notification: May 21, 2025
 Agent4IR Workshop: July 17, 2025
 
 ## Attendance
-- When: 14:30 - 18:00, July 17, 2025 (Italy Time Zone)
+- When: 14:30 - 18:00, July 17, 2025 (Italy Time Zone, GMT+2)
 - Where: 
   - In-person participation: The workshop will be an in-person event and to be held in Room Sala MANTEGNA Media 1, Padova Congress center, Padova, Italy.
-  - Online participation: You can also join the workshop virtually at [Zoom]().
+  - Online participation: You can also join the workshop virtually at [Zoom](https://cityu.zoom.us/j/88051189878?pwd=NtC9pd6VMHpAGFIqe4rdKzqjeXyNwr.1).
 
 ## Invited Speakers
 
