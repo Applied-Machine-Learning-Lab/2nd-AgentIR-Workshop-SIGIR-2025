@@ -24,7 +24,7 @@ Room Sala MANTEGNA Media 1, Padova Congress center, Padova, Italy
 | 14:30 | 15:15 | Invited talk | **Context Scaling for Agentic Retrieval** <br>  Michael Bendersky (Databricks) |
 | 15:15 | 16:00 | Invited talk | **The Second Half in AI Agents: Models and Beyond** <br>  Zhiwei Liu (Salesforce AI)|
 | 16:00 | 16:30 | Coffee break | |
-| 16:30 | 17:15 | Invited talk | **Self-learning AI Agents** <br> Zhou Yu (Columbia University)|
+| 16:30 | 17:15 | Invited talk | **Self-learning AI Agents** <br> Zhou Yu (Columbia University) <br> <a href="https://github.com/Applied-Machine-Learning-Lab/2nd-AgentIR-Workshop-SIGIR-2025/tree/main/assets/files/ZhouYu_Slides">Slides</a> |
 | 17:15 | 17:45 | Paper talk | SLA Management in Reconfigurable Multi-Agent RAG: A Systems Approach to Question Answering |
 | 17:45 | 18:00 | Ending & Poster Session | |
 {: .table}
